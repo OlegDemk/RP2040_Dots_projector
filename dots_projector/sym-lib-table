@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "WeAct-RP2040-Pico")(type "KiCad")(uri "${KIPRJMOD}/kicad-library-WeAct-RP2040-Pico-main/symbols/WeAct-RP2040-Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "D:/work/work/work_projects/1.Current/12. Dots projector/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-01-04_15-12-29")(type "KiCad")(uri "D:/work/work/work_projects/1.Current/12. Dots projector/Simbol_lib/2024-01-04_15-12-29.kicad_sym")(options "")(descr ""))
+)
